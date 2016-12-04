@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board.BanCo" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAEAAAAQAAAA=</HashCode>
+      <FileName>BanCo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.ChessBoard" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASaAIIcFQGUAPXAQVAaMGARfBCTAgACwYcoZYQRIBGg=</HashCode>
+      <FileName>ChessBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Chot" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.FlashScreen" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAACAAAACAAAAIAAAAAAAAABBAAA=</HashCode>
+      <FileName>FlashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Program" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Ma" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.NewGame" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEMAAAACAAABAAAACCAAACAIAAEIAAAAgABAAgAIA=</HashCode>
+      <FileName>NewGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.NguoiChoi" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAACAAAAAAAYAAAAAAAAAAAABAAAAABAAAQAAAA=</HashCode>
+      <FileName>NguoiChoi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Open" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEQAiAAgAAAAACQEABCAAAAAAAAgEIAQgBQAAA=</HashCode>
+      <FileName>Open.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Phao" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Phao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.QuanCo" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAEBIgAAAAAIAAAAAAgEAAAEIAABAAAAAAAA=</HashCode>
+      <FileName>QuanCo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Sound_Options" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAhAAAACCQAACEAAIAAAEBAABBAEAABA=</HashCode>
+      <FileName>Sound_Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Sy" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Tinh" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tinh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.ToaDo" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>ToaDo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Tuong" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.VanCo" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgIAcJELAJIJDEIECAxMgBoQAAIoACQAGACApAAI=</HashCode>
+      <FileName>VanCo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Xe" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Xe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Properties.Resources" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QUFkFKIEdOICJCPWUkKBXFdIMbiAt6+IuaylLmDAEK4=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board.Properties.Settings" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

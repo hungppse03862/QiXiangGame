@@ -1,0 +1,23 @@
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.exe
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.pdb
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\bin\Debug\Board.exe
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\bin\Debug\Board.pdb
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\UIT-ChineseChess.csprojResolveAssemblyReference.cache
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.FlashScreen.resources
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.ChessBoard.resources
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.NewGame.resources
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Open.resources
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Properties.Resources.resources
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Sound_Options.resources
+C:\Users\MR-RIM\Desktop\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\UIT-ChineseChess.csproj.GenerateResource.Cache
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.exe
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.pdb
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\bin\Debug\Board.exe
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\bin\Debug\Board.pdb
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.FlashScreen.resources
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.ChessBoard.resources
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.NewGame.resources
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Open.resources
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Properties.Resources.resources
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Sound_Options.resources
+D:\FPT_Learning\Summer 2016\SWD\Source-CoTuong\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\UIT-ChineseChess.csproj.GenerateResource.Cache
